@@ -1,4 +1,7 @@
 # RateMyAI
+
+![RateMyAI](https://milosilo.com/wp-content/uploads/2023/08/Screenshot-2023-08-19-212324.png)
+
 Prompt Engineering Tool for AI Models with cli prompt or api usage
 
 Full Research Write-up:
